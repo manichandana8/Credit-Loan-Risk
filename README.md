@@ -51,7 +51,6 @@ Tooltips and color coding make it easier to explore high-risk segments.
 
 1. Clone this repo
 2. Open the `.twbx` file in Tableau Public Desktop
-3. Or view the published version on [Tableau Public → Your Profile](https://public.tableau.com/)
 
 ## 👤 Author
 
